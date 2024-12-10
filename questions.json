@@ -1,0 +1,59 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "Solve :<br><img width='60%' src='./assests/images/11.png'>",
+      "options": [
+       "./assests/optionImg/89.jpg",
+        "./assests/optionImg/90.jpg",
+        "./assests/optionImg/91.jpg",
+        "./assests/optionImg/92.jpg"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q2",
+      "question": "Calculate : <br><img width='80%' src='./assests/images/12.png'>",
+      "options": [
+        "./assests/optionImg/93.jpg",
+        "./assests/optionImg/94.jpg",
+        "./assests/optionImg/95.jpg",
+        "./assests/optionImg/96.jpg"
+        
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q3",
+      "question": "If <sup>5</sup>&frasl;<sub>6</sub> of a class are girls and <sup>1</sup>&frasl;<sub>3</sub>  of the girls wear glasses, what fraction of the class are girls who wear glasses?",
+      "options": [
+        "./assests/optionImg/97.jpg",
+        "./assests/optionImg/98.jpg",
+        "./assests/optionImg/99.jpg",
+        "./assests/optionImg/100.jpg"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q4",
+      "question": " A recipe for 24 cupcakes requires <sup>3</sup>&frasl;<sub>4</sub>  cup of sugar. If you want to make only 8 cupcakes, how much sugar would you need?",
+      "options": [
+        "./assests/optionImg/101.jpg",
+        "./assests/optionImg/102.jpg",
+        "./assests/optionImg/103.jpg",
+        "./assests/optionImg/104.jpg"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q5",
+      "question": "A batch of cookies is divided into <sup>1</sup>&frasl;<sub>2</sub>, <sup>1</sup>&frasl;<sub>3</sub> and <sup>1</sup>&frasl;<sub>6</sub> . If the smaller portion is given away, what fraction of the original batch is left?",
+      "options": [
+        "./assests/optionImg/105.jpg",
+        "./assests/optionImg/106.jpg",
+        "./assests/optionImg/107.jpg",
+        "./assests/optionImg/108.jpg"
+      ],
+      "correct": 1
+    }
+  ]
+  
